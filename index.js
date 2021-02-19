@@ -4,4 +4,5 @@ while(i<22){
     console.log(i);
     i++
 }
-this is new
+
+console.log("I can push I also learn pull")
